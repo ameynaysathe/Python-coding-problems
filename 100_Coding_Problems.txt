@@ -1,0 +1,129 @@
+# ✅ **100 Python Problems to Master Python**
+
+## **LEVEL 1 – LOGIC & BASICS (1–15)**
+
+1. Write a program to find the largest of three numbers.
+2. Check if a number is prime.
+3. Generate Fibonacci sequence up to N terms.
+4. Count vowels and consonants in a string.
+5. Reverse a string without using slicing.
+6. Check if two strings are anagrams.
+7. Remove duplicates from a list without using `set()`.
+8. Find second largest number in a list.
+9. Sort a list manually using bubble sort.
+10. Given a list of numbers, separate even and odd.
+11. Count frequency of each word in a sentence.
+12. Find factorial using recursion.
+13. Replace all spaces in a string with `-`.
+14. Implement binary search.
+15. Convert a decimal number to binary (without built-ins).
+
+---
+
+## **LEVEL 2 – INTERMEDIATE PYTHON (16–35)**
+
+16. Create a function to flatten a nested list.
+17. Write a function to rotate a list left/right by k.
+18. Find common elements between two lists without using set.
+19. Implement a stack using a list.
+20. Implement a queue using `collections.deque`.
+21. Calculate the HCF and LCM of two numbers.
+22. Print all permutations of a string.
+23. Merge two sorted lists into one sorted list.
+24. Group numbers by even/odd using dictionary.
+25. Remove all occurrences of an element from a list.
+26. Implement matrix addition.
+27. Implement matrix multiplication.
+28. Read a file and count number of lines, words, characters.
+29. Replace specific words in a file.
+30. Create a simple calculator using functions.
+31. Find missing number from a list of 1–N.
+32. Find first non-repeating character in a string.
+33. Check if a list is palindrome.
+34. Write custom `map()` function.
+35. Write custom `filter()` function.
+
+---
+
+## **LEVEL 3 – OOP & ADVANCED STRUCTURES (36–55)**
+
+36. Create a `BankAccount` class with deposit/withdraw functionality.
+37. Implement inheritance with `Vehicle` → `Car` → `ElectricCar`.
+38. Implement polymorphism using a `speak()` method for animals.
+39. Create a class for managing student marks using encapsulation.
+40. Create a Singleton class.
+41. Implement a simple Linked List.
+42. Implement a Stack class.
+43. Implement a Queue class.
+44. Create a Graph class with BFS and DFS.
+45. Create a Tree class and implement inorder/preorder/postorder.
+46. Build your own `@decorator` that prints function execution time.
+47. Build a decorator for caching (memoization).
+48. Create a context manager using `with` keyword (custom).
+49. Use `abc` module to create abstract classes.
+50. Create a class with operator overloading (`__add__`, `__len__`).
+51. Implement a simple event system using Observer pattern.
+52. Implement Strategy pattern for a payment system.
+53. Build your own `range()` generator.
+54. Build generators for even numbers, infinite numbers, etc.
+55. Build your own `enumerate()`.
+
+---
+
+## **LEVEL 4 – FILES, DATABASES, MODULES (56–70)**
+
+56. Write to a text file line by line.
+57. Append logs to a file with timestamps.
+58. Read a CSV file and convert it into list of dictionaries.
+59. Convert dictionary list into a CSV file.
+60. Parse JSON file and extract key data.
+61. Build a CLI tool that reads a file and prints stats.
+62. Use SQLite: create DB + table + insert + query.
+63. Use Python to send an email (SMTP).
+64. Build a module and import it in another file.
+65. Create a package with `__init__.py`.
+66. Compress and extract zip files in Python.
+67. Create a script to organize downloaded files by extension.
+68. Build a text-based password manager storing data encrypted.
+69. Write a script to search inside files for a keyword (like grep).
+70. Build a note-taking CLI app with save & load functionality.
+
+---
+
+## **LEVEL 5 – ALGORITHMIC PROBLEMS (71–85)**
+
+71. Two Sum problem (without using brute force).
+72. Longest substring without repeating characters.
+73. Longest palindrome substring.
+74. Check if bracket pattern is valid using stack.
+75. Kadane’s algorithm (maximum subarray).
+76. Merge intervals.
+77. Check if a number is Armstrong.
+78. Implement Dijkstra’s shortest path.
+79. Implement a sorting algorithm (merge sort).
+80. Implement quick sort.
+81. Find top K frequent elements.
+82. Sliding window maximum.
+83. Count islands in a grid (DFS).
+84. Detect cycle in linked list.
+85. Reverse a linked list.
+
+---
+
+## **LEVEL 6 – REAL WORLD PYTHON (86–100)**
+
+86. Call a public API and print the results (requests).
+87. Create a CLI weather app using API.
+88. Build a URL shortener using hashing.
+89. Build a text summarizer using basic NLP (NLTK).
+90. Scrape a website using BeautifulSoup.
+91. Automate Excel with `openpyxl`.
+92. Download YouTube videos using pytube.
+93. Build a QR code generator.
+94. Build an image metadata extractor (PIL).
+95. Build a Telegram or WhatsApp-like console chat using sockets.
+96. Implement multiprocessing to run tasks in parallel.
+97. Implement async HTTP calls using `aiohttp`.
+98. Build a FastAPI simple CRUD service.
+99. Deploy a Python script as REST API using Flask.
+100. Build your own mini chatbot using Python + simple rule-based logic.
